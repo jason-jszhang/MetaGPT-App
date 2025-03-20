@@ -1,7 +1,7 @@
 default_stages: [ commit ]
 
 # Install
-# 1. pip install metagpt[dev]
+# 1. pip install metagpt
 # 2. pre-commit install
 # 3. pre-commit run --all-files  # make sure all files are clean
 repos:
