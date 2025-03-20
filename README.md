@@ -1,4 +1,5 @@
-# MetaGPT-App: MetaGPT-App is an example application library implemented based on the MetaGPT multi-agent framework.
+# MetaGPT-App
+MetaGPT-App is an example application library implemented based on the MetaGPT multi-agent framework.
 ## Get Started
 
 ### Installation
